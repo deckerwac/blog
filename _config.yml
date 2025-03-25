@@ -1,0 +1,9 @@
+title: 玛奇娜 | 博客
+email: dimitri@fbi.one
+baseurl: ""
+url: "https://deckerwac.github.io/blog/"
+github_username: deckerwac
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
